@@ -1,0 +1,7 @@
+# DeepEval pulls in its own HTTP and dotenv dependencies. They are listed
+# here so the demo's runtime is obvious from this file alone.
+deepeval>=4.3.0
+ollama>=0.4.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+gradio>=4.44.0,<6
